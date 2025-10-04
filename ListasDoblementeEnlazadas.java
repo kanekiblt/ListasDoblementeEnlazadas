@@ -1,4 +1,12 @@
 package ListaDoblementeEnlazadas;
+/*
+ * Nombre: Boyer Espinola Antony
+ * Codugo: 0202314008
+ * Tema: Lista Doblemente Enlazada
+ * Fecha: 26/09/2023
+ */
+
+
 
 import java.util.Scanner;
 
